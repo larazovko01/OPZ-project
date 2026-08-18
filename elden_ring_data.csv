@@ -1,0 +1,121 @@
+id,type,full_name,region,progression_stage,lore_difficulty_rating,phase_count,mandatory_fight,arena_openness,story_importance
+1,Boss,"Margit, the Fell Omen",Limgrave,early,3,2,True,semi-open,4
+2,Boss,Godrick the Grafted,Limgrave,early,3,2,True,closed,4
+3,Boss,"Rennala, Queen of the Full Moon",Liurnia of the Lakes,mid,2,2,True,closed,4
+4,Boss,Starscourge Radahn,Caelid,mid,4,2,True,vast,5
+5,Boss,"Rykard, Lord of Blasphemy",Mt. Gelmir,mid,3,2,True,closed,4
+6,Boss,"Morgott, the Omen King","Leyndell, Royal Capital",late,4,2,True,closed,5
+7,Boss,Fire Giant,Mountaintops of the Giants,late,4,2,True,vast,5
+8,Boss,"Mohg, the Omen",Leyndell Sewers,mid,3,2,False,closed,3
+9,Boss,"Mohg, Lord of Blood",Mohgwyn Palace,late,4,2,True,closed,5
+10,Boss,Commander Niall,Mountaintops of the Giants,late,4,2,True,closed,4
+11,Boss,"Malenia, Blade of Miquella",Miquella's Haligtree,endgame,5,2,True,open,5
+12,Boss,Radagon of the Golden Order,Erdtree,endgame,4,1,True,closed,5
+13,Boss,Elden Beast,Erdtree,endgame,5,1,True,vast,5
+14,Mini-Boss,Night'S Cavalry (Black Knife Catacombs),Limgrave,endgame,2,2,False,open,2
+15,Mini-Boss,Ancestor Spirit (Volcano Cave),Liurnia of the Lakes,early,3,2,False,open,2
+16,Mini-Boss,Erdtree Avatar (Black Knife Catacombs),Caelid,late,2,2,False,closed,2
+17,Mini-Boss,Burial Watchdog (Mohgwyn Palace Outskirts),Altus Plateau,mid,2,1,False,open,2
+18,Mini-Boss,Grave Warden Duelist (Siofra River Bank),Mountaintops of the Giants,early,2,2,False,open,2
+19,Mini-Boss,Night'S Cavalry (Sellia Crystal Tunnel),Limgrave,mid,2,1,False,open,2
+20,Mini-Boss,Godskin Apostle (Unsightly Catacombs),Liurnia of the Lakes,mid,2,1,False,closed,2
+21,Mini-Boss,Putrid Avatar (Zamor Ruins),Caelid,late,2,1,False,semi-open,2
+22,Mini-Boss,Crucible Knight (Tombsward Cave),Altus Plateau,early,3,2,False,closed,2
+23,Mini-Boss,Erdtree Avatar (Tombsward Cave),Mountaintops of the Giants,late,4,1,False,closed,2
+24,Mini-Boss,Misbegotten Warrior (Shaded Castle),Limgrave,late,2,1,False,closed,2
+25,Mini-Boss,Cemetery Shade (Groveside Cave),Liurnia of the Lakes,mid,2,2,False,closed,2
+26,Mini-Boss,Tree Sentinel (Unsightly Catacombs),Caelid,endgame,3,1,False,vast,2
+27,Mini-Boss,Black Knife Assassin (Siofra River Bank),Altus Plateau,mid,4,1,False,vast,2
+28,Mini-Boss,Godskin Apostle (Shaded Castle),Mountaintops of the Giants,early,3,1,False,semi-open,2
+29,Mini-Boss,Cemetery Shade (Ancestral Woods),Limgrave,early,3,2,False,vast,2
+30,Mini-Boss,Cemetery Shade (Giant-Conquering Hero'S Grave),Liurnia of the Lakes,mid,2,1,False,closed,2
+31,Mini-Boss,Perfumer Tricia (Auriza Hero'S Grave),Caelid,late,2,1,False,open,2
+32,Mini-Boss,Royal Revenant (War-Dead Catacombs),Altus Plateau,mid,3,2,False,closed,2
+33,Mini-Boss,Misbegotten Warrior (Limgrave Tunnels),Mountaintops of the Giants,early,4,2,False,semi-open,2
+34,Mini-Boss,Black Knife Assassin (Mohgwyn Palace Outskirts),Limgrave,early,2,1,False,vast,2
+35,Mini-Boss,Cleanrot Knight (Black Knife Catacombs),Liurnia of the Lakes,mid,3,2,False,open,2
+36,Mini-Boss,Deathbird (Deathtouched Catacombs),Caelid,late,3,1,False,open,2
+37,Mini-Boss,Beastman Of Farum Azula (Mountaintops Catacombs),Altus Plateau,endgame,3,2,False,closed,2
+38,Mini-Boss,Kindred Of Rot (Caelid Catacombs),Mountaintops of the Giants,mid,2,2,False,vast,2
+39,Mini-Boss,Erdtree Avatar (Groveside Cave),Limgrave,early,4,2,False,open,2
+40,Mini-Boss,Godskin Noble (Sellia Crystal Tunnel),Liurnia of the Lakes,early,4,1,False,closed,2
+41,Mini-Boss,Fallingstar Beast (Deathtouched Catacombs),Caelid,endgame,2,1,False,closed,2
+42,Mini-Boss,Misbegotten Warrior (Minor Erdtree),Altus Plateau,endgame,3,1,False,vast,2
+43,Mini-Boss,Deathbird (Murkwater Catacombs),Mountaintops of the Giants,late,4,2,False,closed,2
+44,Mini-Boss,Burial Watchdog (War-Dead Catacombs),Limgrave,mid,3,1,False,closed,2
+45,Mini-Boss,Beastman Of Farum Azula (Ancestral Woods),Liurnia of the Lakes,endgame,2,2,False,closed,2
+46,Mini-Boss,Duelist (Unsightly Catacombs),Caelid,late,3,1,False,semi-open,2
+47,Mini-Boss,Grave Warden Duelist (Shaded Castle),Altus Plateau,endgame,3,2,False,closed,2
+48,Mini-Boss,Royal Revenant (Forlorn Hound Evergaol),Mountaintops of the Giants,mid,4,2,False,open,2
+49,Mini-Boss,Ulcerated Tree Spirit (Auriza Hero'S Grave),Limgrave,mid,2,2,False,closed,2
+50,Mini-Boss,Erdtree Avatar (Mountaintops Catacombs),Liurnia of the Lakes,early,3,2,False,closed,2
+51,Mini-Boss,Black Knife Assassin (Murkwater Catacombs),Caelid,endgame,2,1,False,closed,2
+52,Mini-Boss,Perfumer Tricia (Volcano Cave),Altus Plateau,endgame,3,2,False,closed,2
+53,Mini-Boss,Night'S Cavalry (Altus Tunnel),Mountaintops of the Giants,late,3,1,False,semi-open,2
+54,Mini-Boss,Erdtree Avatar (Sellia Crystal Tunnel),Limgrave,mid,3,2,False,vast,2
+55,Mini-Boss,Kindred Of Rot (Auriza Hero'S Grave),Liurnia of the Lakes,mid,2,1,False,closed,2
+56,Mini-Boss,Cleanrot Knight (Altus Tunnel),Caelid,endgame,4,1,False,vast,2
+57,Mini-Boss,Ancestor Spirit (Giant-Conquering Hero'S Grave),Altus Plateau,mid,3,2,False,vast,2
+58,Mini-Boss,Night'S Cavalry (Groveside Cave),Mountaintops of the Giants,early,2,2,False,open,2
+59,Mini-Boss,Duelist (Shaded Castle),Limgrave,late,2,1,False,closed,2
+60,Mini-Boss,Grave Warden Duelist (War-Dead Catacombs),Liurnia of the Lakes,endgame,3,1,False,semi-open,2
+61,Mini-Boss,Fallingstar Beast (Murkwater Catacombs),Caelid,early,2,2,False,semi-open,2
+62,Mini-Boss,Kindred Of Rot (Windmill Village),Altus Plateau,endgame,3,1,False,open,2
+63,Mini-Boss,Burial Watchdog (Zamor Ruins),Mountaintops of the Giants,mid,4,1,False,vast,2
+64,Mini-Boss,Perfumer Tricia (Caelid Catacombs),Limgrave,endgame,2,1,False,open,2
+65,Mini-Boss,Ulcerated Tree Spirit (Altus Tunnel),Liurnia of the Lakes,early,2,1,False,semi-open,2
+66,Mini-Boss,Misbegotten Warrior (Unsightly Catacombs),Caelid,mid,4,2,False,closed,2
+67,Mini-Boss,Night'S Cavalry (Tombsward Cave),Altus Plateau,endgame,3,2,False,semi-open,2
+68,Mini-Boss,Godskin Noble (Altus Tunnel),Mountaintops of the Giants,endgame,2,1,False,closed,2
+69,Mini-Boss,Godskin Apostle (Deathtouched Catacombs),Limgrave,late,4,1,False,closed,2
+70,Mini-Boss,Cemetery Shade (Tombsward Cave),Liurnia of the Lakes,late,2,2,False,vast,2
+71,Mini-Boss,Perfumer Tricia (Windmill Village),Caelid,early,3,2,False,semi-open,2
+72,Mini-Boss,Fallingstar Beast (Unsightly Catacombs),Altus Plateau,mid,4,1,False,open,2
+73,Mini-Boss,Cemetery Shade (Mountaintops Catacombs),Mountaintops of the Giants,endgame,4,2,False,vast,2
+74,Mini-Boss,Misbegotten Warrior (Forlorn Hound Evergaol),Limgrave,mid,2,2,False,closed,2
+75,Mini-Boss,Duelist (War-Dead Catacombs),Liurnia of the Lakes,mid,3,2,False,closed,2
+76,Mini-Boss,Putrid Avatar (Stormfoot Catacombs),Caelid,endgame,4,2,False,vast,2
+77,Mini-Boss,Royal Revenant (Mohgwyn Palace Outskirts),Altus Plateau,early,4,1,False,semi-open,2
+78,Mini-Boss,Burial Watchdog (Siofra River Bank),Mountaintops of the Giants,early,2,1,False,semi-open,2
+79,Mini-Boss,Putrid Avatar (Limgrave Tunnels),Limgrave,early,4,2,False,vast,2
+80,Mini-Boss,Black Knife Assassin (Stormfoot Catacombs),Liurnia of the Lakes,endgame,4,1,False,semi-open,2
+81,Mini-Boss,Crucible Knight (Mountaintops Catacombs),Caelid,endgame,4,1,False,semi-open,2
+82,Mini-Boss,Perfumer Tricia (Altus Tunnel),Altus Plateau,endgame,3,1,False,open,2
+83,Mini-Boss,Cleanrot Knight (Auriza Hero'S Grave),Mountaintops of the Giants,early,3,1,False,vast,2
+84,Mini-Boss,Burial Watchdog (Stormfoot Catacombs),Limgrave,early,3,1,False,vast,2
+85,Mini-Boss,Crucible Knight (Groveside Cave),Liurnia of the Lakes,endgame,4,2,False,vast,2
+86,Mini-Boss,Deathbird (Mohgwyn Palace Outskirts),Caelid,late,4,2,False,semi-open,2
+87,Mini-Boss,Duelist (Forlorn Hound Evergaol),Altus Plateau,late,2,2,False,semi-open,2
+88,Mini-Boss,Deathbird (Zamor Ruins),Mountaintops of the Giants,late,2,1,False,closed,2
+89,Mini-Boss,Tree Sentinel (Murkwater Catacombs),Limgrave,mid,4,2,False,closed,2
+90,Mini-Boss,Godskin Noble (Windmill Village),Liurnia of the Lakes,late,2,2,False,semi-open,2
+91,Mini-Boss,Tree Sentinel (Limgrave Tunnels),Caelid,early,4,1,False,vast,2
+92,Mini-Boss,Fallingstar Beast (Minor Erdtree),Altus Plateau,early,2,2,False,closed,2
+93,Mini-Boss,Cleanrot Knight (Windmill Village),Mountaintops of the Giants,mid,3,1,False,closed,2
+94,Mini-Boss,Kindred Of Rot (Volcano Cave),Limgrave,mid,3,2,False,semi-open,2
+95,Mini-Boss,Beastman Of Farum Azula (Caelid Catacombs),Liurnia of the Lakes,late,4,2,False,open,2
+96,Mini-Boss,Beastman Of Farum Azula (Groveside Cave),Caelid,endgame,3,1,False,vast,2
+97,Mini-Boss,Beastman Of Farum Azula (Giant-Conquering Hero'S Grave),Altus Plateau,endgame,4,2,False,open,2
+98,Mini-Boss,Godskin Apostle (Limgrave Tunnels),Mountaintops of the Giants,late,3,1,False,vast,2
+99,Mini-Boss,Godskin Noble (Auriza Hero'S Grave),Limgrave,mid,4,2,False,closed,2
+100,Mini-Boss,Crucible Knight (Ancestral Woods),Liurnia of the Lakes,early,4,1,False,semi-open,2
+101,Mini-Boss,Ulcerated Tree Spirit (Black Knife Catacombs),Caelid,endgame,3,1,False,open,2
+102,Mini-Boss,Ancestor Spirit (Ancestral Woods),Altus Plateau,early,4,2,False,vast,2
+103,Mini-Boss,Kindred Of Rot (Giant-Conquering Hero'S Grave),Mountaintops of the Giants,late,2,1,False,semi-open,2
+104,Mini-Boss,Godskin Noble (Volcano Cave),Limgrave,mid,3,2,False,vast,2
+105,Mini-Boss,Duelist (Minor Erdtree),Liurnia of the Lakes,early,3,1,False,vast,2
+106,Mini-Boss,Fallingstar Beast (Limgrave Tunnels),Caelid,endgame,2,2,False,closed,2
+107,Mini-Boss,Tree Sentinel (Stormfoot Catacombs),Altus Plateau,late,4,2,False,semi-open,2
+108,Mini-Boss,Grave Warden Duelist (Forlorn Hound Evergaol),Mountaintops of the Giants,late,2,1,False,closed,2
+109,Mini-Boss,Royal Revenant (Siofra River Bank),Limgrave,mid,4,2,False,closed,2
+110,Mini-Boss,Tree Sentinel (Deathtouched Catacombs),Liurnia of the Lakes,late,3,2,False,vast,2
+111,Mini-Boss,Cleanrot Knight (Sellia Crystal Tunnel),Caelid,early,4,2,False,closed,2
+112,Mini-Boss,Putrid Avatar (Murkwater Catacombs),Altus Plateau,late,2,1,False,semi-open,2
+113,Mini-Boss,Ulcerated Tree Spirit (Sellia Crystal Tunnel),Mountaintops of the Giants,mid,4,1,False,vast,2
+114,Mini-Boss,Ulcerated Tree Spirit (Tombsward Cave),Limgrave,late,2,1,False,closed,2
+115,Mini-Boss,Ancestor Spirit (Caelid Catacombs),Liurnia of the Lakes,late,4,1,False,semi-open,2
+116,Mini-Boss,Putrid Avatar (Deathtouched Catacombs),Caelid,late,2,1,False,semi-open,2
+117,Mini-Boss,Godskin Apostle (Minor Erdtree),Altus Plateau,early,3,2,False,semi-open,2
+118,Mini-Boss,Black Knife Assassin (Zamor Ruins),Mountaintops of the Giants,endgame,3,2,False,semi-open,2
+119,Mini-Boss,Crucible Knight (Black Knife Catacombs),Limgrave,late,3,1,False,vast,2
+120,Mini-Boss,Deathbird (Stormfoot Catacombs),Liurnia of the Lakes,early,4,1,False,open,2
